@@ -5,5 +5,6 @@ This is a repository for all of my coursework for the DevOps course that I'm tak
 - Docker 
 - Docker Compose 
 - Kaniko
+- Podman
 
 ## Articles Written 
