@@ -8,3 +8,4 @@ This is a repository for all of my coursework for the DevOps course that I'm tak
 - Podman
 
 ## Articles Written 
+- [Dockerizing a Go Application](https://zohaibadnan137.medium.com/dockerizing-a-go-application-ee67516c590a)
