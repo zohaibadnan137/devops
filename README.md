@@ -13,3 +13,4 @@ This is a repository for all of my coursework for the DevOps course that I'm tak
 
 ## Articles Written 
 - [Dockerizing a Go Application](https://zohaibadnan137.medium.com/dockerizing-a-go-application-ee67516c590a)
+- [Ko: Container Images Simplified](https://medium.com/@zohaibadnan137/ko-container-images-simplified-7cfd8f9cefa6)
